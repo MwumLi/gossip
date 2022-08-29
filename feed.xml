@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MwumLi]]></title>
+        <description><![CDATA[人生最美妙的风景是内心的淡定和从容]]></description>
+        <link>https://qianx1.xyz</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 29 Aug 2022 05:16:22 GMT</lastBuildDate>
+        <atom:link href="https://qianx1.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 29 Aug 2022 05:16:22 GMT</pubDate>
+        <copyright><![CDATA[All rights reserved 2022, MwumLi]]></copyright>
+        <language><![CDATA[zh-CN]]></language>
+        <item>
+            <title><![CDATA[test micro say]]></title>
+            <link>https://qianx1.xyz/post/test micro say</link>
+            <guid isPermaLink="true">https://qianx1.xyz/post/test micro say</guid>
+            <pubDate>Mon, 29 Aug 2022 05:12:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
